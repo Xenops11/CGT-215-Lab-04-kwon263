@@ -1,1 +1,1 @@
-This is the repository where I put in the files for the Lab 04 assignment for CGT 215. I added the cpp file of Lab 3 on this repository. I will make a new repository for the next lab.
+This is the repository where I put in the files for the Lab 04 assignment for CGT 215. I added the cpp file of Lab 3 on this repository. The Lab 4 is about making a program that calculates the factor of a number, the arithmetic sequence series, and the geometric sequence series. I had to use the loops to solve the numbers. I will make a new repository for the next lab.
